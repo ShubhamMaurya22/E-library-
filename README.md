@@ -46,16 +46,16 @@ The source code of this project is written in PHP. So, you'll require XAMPP to r
 - Run localhost/{YOUR FOLDER NAME} 
 ## Screenshots
 
--Index page
+- Index page
 ![index_page](https://user-images.githubusercontent.com/104679743/166982701-67209691-74e7-40d1-981d-c796b03fafa0.jpg))
 
--Signup-Login page
+- Signup-Login page
 ![login-Signup](https://user-images.githubusercontent.com/104679743/166982916-82f31b1c-9550-4b98-b3f0-9c25295c21fd.png)
 
--Books
+- Books
 ![Semester wise books](https://user-images.githubusercontent.com/104679743/166983021-cfca6d64-b1d1-44e0-8480-b41a399a3d6b.jpg)
 
--DMCA
+- DMCA
 ![DMCA](https://user-images.githubusercontent.com/104679743/166983524-cbf1e075-c75c-47d6-a764-f166dfa07a94.jpg)
 
 
