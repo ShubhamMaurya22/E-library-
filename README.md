@@ -48,7 +48,7 @@ The source code of this project is written in PHP. So, you'll require XAMPP to r
 
 - Index page
 
-![index_page](https://user-images.githubusercontent.com/104679743/166982701-67209691-74e7-40d1-981d-c796b03fafa0.jpg))
+![index_page](https://user-images.githubusercontent.com/104679743/166982701-67209691-74e7-40d1-981d-c796b03fafa0.jpg)
 
 - Signup-Login page
 
